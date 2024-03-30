@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm BEN HASSINE MOHAMED DHIA</h1>
 <h3 align="center">A passionate Full-Stack Developer from TUNISIA</h3>
-<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas">
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2F1c3V5NGd2NWkwNGc3dTBvNHV0YnZjdnBwdjRuNW1sZTdycmp4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiabenhassine&label=Profile%20views&color=0e75b6&style=flat" alt="dhiabenhassine" /> </p>
 - 🔭 I’m currently working on [Super Host](https://github.com/Dhiabenhassine/SuperHost.git)
 
